@@ -13,7 +13,8 @@ Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções
 > **Resultado:** Aplicação full stack funcional, com rotas protegidas e integração front-end/back-end  
 > **Implementações:**  
 > - Cadastro, login e autenticação de usuários  
-> - CRUD completo de veículos  
+> - CRUD completo de veículos
+> - Repositório Git: [Plataforma de carros](https://github.com/kailanesarah/car-dealership-django-project)
 
 ---
 
@@ -23,7 +24,8 @@ Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções
 > **Resultado:** API pronta para uso em projetos de listagem e análise de conteúdo audiovisual  
 > **Implementações:**  
 > - Estrutura modular com organização por apps  
-> - Endpoints completos para recursos relacionados a filmes  
+> - Endpoints completos para recursos relacionados a filmes
+> - Repositório Git: [API Movies](https://github.com/kailanesarah/movie-management-API-DRF)
 
 ---
 
@@ -34,26 +36,38 @@ Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções
 > **Implementações:**  
 > - Interface baseada no Mercado Livre  
 > - Componentes reutilizáveis e organizados  
-
----
-
-### 🌐 Site Institucional – APCD
-> **Objetivo:** Presença online para associação regional  
-> **Tecnologias:** WordPress  
-> **Resultado:** Entrega de site institucional acessível e de fácil manutenção  
-> **Implementações:**  
-> - Site responsivo com SEO básico  
-> - Customizações com tema e plugins  
-
 ---
 
 ## 🧠 Tecnologias
+**Back-end:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)  
 
-**Back-end:** Python, Django, Django REST Framework  
-**Front-end:** React, Tailwind CSS, JavaScript, Material UI  
-**CMS e Design:** WordPress, Figma, Canva  
-**Outros:** Git, GitHub, Postman, SQLite, Vite, Linux  
-**Idiomas:** Português (nativo), Inglês (nível intermediário)  
+**Front-end:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
+
+**CMS e Design:**  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+
+**Outros:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+**Idiomas:**  
+🇧🇷 **Português:** Nativo  
+🇺🇸 **Inglês:** Intermediário
+
+ 
 
 ---
 
@@ -81,7 +95,11 @@ Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções
 
 **Ciência da Computação** – Instituto Federal do Ceará (IFCE)  
 Desde 2023  
-> Envolvimento em projetos acadêmicos, MVPs e pesquisa científica aplicada  
+> Participação em projetos de extensão, desenvolvimento de MVPs e iniciativas acadêmicas aplicadas.  
+>  
+> Projetos de destaque:
+> - Projeto de extensão: “Rotas da Ibiapaba”: desenvolvimento de soluções tecnológicas para o turismo local  
+> - Projeto de extensão: Desenvolvimento de sites institucional APCD com WordPress em parceria com IFCE
 
 ---
 
