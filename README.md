@@ -7,16 +7,6 @@ Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções
 
 ## 🚀 Projetos em Destaque
 
-### 🚘 Plataforma de Carros Full Stack
-> **Objetivo:** Simular uma plataforma de revenda de veículos  
-> **Tecnologias:** Django, Django REST Framework  
-> **Resultado:** Aplicação full stack funcional, com rotas protegidas e integração front-end/back-end  
-> **Implementações:**  
-> - Cadastro, login e autenticação de usuários  
-> - CRUD completo de veículos
-> - Repositório Git: [Plataforma de carros](https://github.com/kailanesarah/car-dealership-django-project)
-
----
 
 ### 🎬 API de Movies
 > **Objetivo:** Gerenciar filmes, gêneros, atores e avaliações  
@@ -28,6 +18,18 @@ Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções
 > - Repositório Git: [API Movies](https://github.com/kailanesarah/movie-management-API-DRF)
 
 ---
+
+### 🚘 Plataforma de Carros Full Stack
+> **Objetivo:** Simular uma plataforma de revenda de veículos  
+> **Tecnologias:** Django, Django REST Framework  
+> **Resultado:** Aplicação full stack funcional, com rotas protegidas e integração front-end/back-end  
+> **Implementações:**  
+> - Cadastro, login e autenticação de usuários  
+> - CRUD completo de veículos
+> - Repositório Git: [Plataforma de carros](https://github.com/kailanesarah/car-dealership-django-project)
+
+---
+
 
 ### 🛒 Clone do Mercado Livre (em desenvolvimento)
 > **Objetivo:** Reproduzir layout e fluxo de e-commerce  
@@ -67,8 +69,6 @@ Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções
 🇧🇷 **Português:** Nativo  
 🇺🇸 **Inglês:** Intermediário
 
- 
-
 ---
 
 ## 📊 Estatísticas GitHub
@@ -85,9 +85,6 @@ Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções
   <img src="https://github-profile-trophy.vercel.app/?username=kailanesarah&theme=dracula&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" width="98%" />
 
 </div>
-
-
-
 
 ---
 
@@ -109,6 +106,15 @@ Atuar como desenvolvedora full stack júnior ou estagiária, com foco em aplica�
 Interesse especial em empresas com cultura de engenharia, aprendizado contínuo e impacto real.
 
 ---
+
+## ✨ Soft Skills & Cultura
+
+- Comunicação clara e empática
+- Aprendizado contínuo
+- Trabalho em equipe 
+- Organização e foco 
+- Adaptabilidade 
+- Cultura de crescimento 
 
 ## 📫 Contato
 
