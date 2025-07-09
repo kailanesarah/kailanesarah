@@ -14,7 +14,8 @@ Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis
 **Em desenvolvimento**
 **Objetivo:** Facilitar a gestão de produtos turísticos, parceiros e tickets de resgate na região da Ibiapaba  
 **Tecnologias:** Django, Django REST Framework, Docker, PostgreSQL, JWT
-**Resultado:** API robusta para compra e resgate de tickets, com suporte a múltiplos perfis de usuários  
+
+**Resultado esperado:** API robusta para compra e resgate de tickets, com suporte a múltiplos perfis de usuários  
 
 **Implementações:**  
 - Estrutura modular com apps separados (produtos, tickets, parceiros, compras, etc.)  
@@ -32,7 +33,8 @@ Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis
 **Em desenvolvimento**
 **Objetivo:** Desenvolver uma plataforma completa para cadastro, edição e visualização de produtos  
 **Tecnologias:** Django, Django REST Framework, Bootstrap
-**Resultado:** Aplicação full stack funcional com integração entre front-end e back-end  
+
+**Resultado esperado:** Aplicação full stack funcional com integração entre front-end e back-end  
 
 **Implementações:**  
 - Cadastro, login e autenticação de usuários  
@@ -49,7 +51,8 @@ Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis
 ### 🖼️ API de extração e tradução de texto em imagens  
 **Objetivo:** Extrair textos de imagens enviadas e traduzir para outros idiomas conforme solicitação do usuário  
 **Tecnologias:** Django, Django REST Framework, OCR (Tesseract), APIs de tradução  
-**Resultado:** API funcional que recebe imagens, extrai o texto e realiza tradução sob demanda  
+
+**Resultado esperado:** API funcional que recebe imagens, extrai o texto e realiza tradução sob demanda  
 
 **Implementações:**  
 - Upload e processamento de imagens para extração de texto via OCR  
