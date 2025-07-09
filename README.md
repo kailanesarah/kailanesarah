@@ -1,6 +1,6 @@
-# Kailane – Desenvolvedora Full Stack Júnior
+# Bem-vindo ao meu perfil! Sou Kailane, Desenvolvedora Full-Stack Júnior  
 
-Sou **desenvolvedora Full-Stack Júnior**, dedicada a criar soluções que realmente **resolvem problemas** e geram impacto.  
+Me dedico a criar soluções que realmente **resolvem problemas** e geram impacto.  
 Atualmente estudo **Ciência da Computação no IFCE** e trabalho com **Python (Django)**, **React**, **Next.js** e **Tailwind CSS** para construir aplicações completas.  
 Tenho experiência com **CI/CD**, **Docker** e outras práticas modernas para garantir entregas rápidas e confiáveis.  
 Além disso, aplico conhecimentos em **análise de dados** para apoiar decisões mais assertivas.  
