@@ -1,43 +1,66 @@
 # Kailane – Desenvolvedora Full Stack Júnior
 
-Desenvolvedora Full-Stack Júnior com foco em **produtos que resolvem problemas reais**, combinando tecnologia, escrita e design.  
-Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções completas com **Python (Django)** e **React/Tailwind**. 
+Sou **desenvolvedora Full-Stack Júnior**, dedicada a criar soluções que realmente **resolvem problemas** e geram impacto.  
+Atualmente estudo **Ciência da Computação no IFCE** e trabalho com **Python (Django)**, **React**, **Next.js** e **Tailwind CSS** para construir aplicações completas.  
+Tenho experiência com **CI/CD**, **Docker** e outras práticas modernas para garantir entregas rápidas e confiáveis.  
+Além disso, aplico conhecimentos em **análise de dados** para apoiar decisões mais assertivas.  
+Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis e eficientes.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
+### 🗺️ API Rotas da Ibiapaba  
+**Em desenvolvimento**
+**Objetivo:** Facilitar a gestão de produtos turísticos, parceiros e tickets de resgate na região da Ibiapaba  
+**Tecnologias:** Django, Django REST Framework  
+**Resultado:** API robusta para compra e resgate de tickets, com suporte a múltiplos perfis de usuários  
 
-### 🎬 API de Movies
-> **Objetivo:** Gerenciar filmes, gêneros, atores e avaliações  
-> **Tecnologias:** Django, Django REST Framework  
-> **Resultado:** API pronta para uso em projetos de listagem e análise de conteúdo audiovisual  
-> **Implementações:**  
-> - Estrutura modular com organização por apps  
-> - Endpoints completos para recursos relacionados a filmes
-> - Repositório Git: [API Movies](https://github.com/kailanesarah/movie-management-API-DRF)
+**Implementações:**  
+- Estrutura modular com apps separados (produtos, tickets, parceiros, compras, etc.)  
+- CRUD completo para estabelecimentos e seus produtos  
+- Rankeamento automático de estabelecimentos com base em avaliações  
+- Gerenciamento de diferentes tipos de usuários (turista, gerente, estabelecimento, admin)  
+- Sistema de compra sem login com envio de comprovante por e-mail e WhatsApp  
+- Controle de status dos tickets (em processo, resgatado, cancelado)  
+- Integração com totens para visualização e compra  
 
----
-
-### 🚘 Plataforma de Carros Full Stack
-> **Objetivo:** Simular uma plataforma de revenda de veículos  
-> **Tecnologias:** Django, Django REST Framework  
-> **Resultado:** Aplicação full stack funcional, com rotas protegidas e integração front-end/back-end  
-> **Implementações:**  
-> - Cadastro, login e autenticação de usuários  
-> - CRUD completo de veículos
-> - Repositório Git: [Plataforma de carros](https://github.com/kailanesarah/car-dealership-django-project)
+**Repositório Git:** [Rotas da Ibiapaba API](https://github.com/kailanesarah/rotas-da-ibiapaba-api)
 
 ---
 
+### 📦 Sistema de Gerenciamento de Produtos (Full Stack)  
+**Em desenvolvimento**
+**Objetivo:** Desenvolver uma plataforma completa para cadastro, edição e visualização de produtos  
+**Tecnologias:** Django, Django REST Framework, HTML, CSS, JavaScript  
+**Resultado:** Aplicação full stack funcional com integração entre front-end e back-end  
 
-### 🛒 Clone do Mercado Livre (em desenvolvimento)
-> **Objetivo:** Reproduzir layout e fluxo de e-commerce  
-> **Tecnologias:** React, Tailwind, Django, Django REST Framework  
-> **Resultado:** Base para estudo de UX, performance e arquitetura front-end e back-end  
-> **Implementações:**  
-> - Interface baseada no Mercado Livre  
-> - Componentes reutilizáveis e organizados  
+**Implementações:**  
+- Cadastro, login e autenticação de usuários  
+- CRUD completo de produtos com categorização  
+- Interface responsiva para administração e visualização  
+- Validações personalizadas e mensagens de feedback no front-end  
+- Separação clara entre regras de negócio, templates e rotas protegidas  
+- Projeto idealizado em curso, mas desenvolvido de forma independente  
+
+**Repositório Git:** [Sistema de Gerenciamento de Produtos](https://github.com/kailanesarah/product_management_system)
+
+
+---
+### 🖼️ API de Extração e Tradução de Texto em Imagens  
+**Objetivo:** Extrair textos de imagens enviadas e traduzir para outros idiomas conforme solicitação do usuário  
+**Tecnologias:** Django, Django REST Framework, OCR (Tesseract), APIs de tradução  
+**Resultado:** API funcional que recebe imagens, extrai o texto e realiza tradução sob demanda  
+
+**Implementações:**  
+- Upload e processamento de imagens para extração de texto via OCR  
+- Tradução automática do texto extraído para múltiplos idiomas  
+- Endpoints protegidos por autenticação  
+- Suporte a formatos comuns de imagem  
+- Projeto desenvolvido de forma independente, focado em acessibilidade e automação
+  
+**Repositório Git:** [API de Extração e Tradução de Texto em Imagens](https://github.com/kailanesarah/image-text-extraction-API-DRF)
+
 ---
 
 ## 🧠 Tecnologias
@@ -94,9 +117,17 @@ Estudante de **Ciência da Computação (IFCE)**, focada em construir soluções
 Desde 2023  
 > Participação em projetos de extensão, desenvolvimento de MVPs e iniciativas acadêmicas aplicadas.  
 >  
-> Projetos de destaque:
-> - Projeto de extensão: “Rotas da Ibiapaba”: desenvolvimento de soluções tecnológicas para o turismo local  
-> - Projeto de extensão: Desenvolvimento de sites institucional APCD com WordPress em parceria com IFCE
+> **Projetos de destaque:**
+> 
+> - **Rotas da Ibiapaba** (Projeto de Extensão)  
+> Desenvolvimento de soluções tecnológicas para o turismo local, incluindo API para gestão de produtos turísticos, parceiros e tickets, visando fomentar a economia regional.
+> 
+> - **Desenvolvimento de iite Institucional para APCD** (Projeto de Extensão em parceria com o IFCE)  
+> Criação de site institucional acessível em WordPress, com foco em estrutura de dados e design inclusivo para pessoas com deficiência, promovendo acessibilidade digital.
+> 
+> - **Desenvolvimento de aplicativo para ensino de estrutura de dados** (Projeto de Extensão)  
+> Desenvolvimento de um app acessível para auxiliar alunos com deficiência visual no aprendizado de estrutura de dados, promovendo inclusão educacional por meio de tecnologias assistivas.
+
 
 ---
 
@@ -109,12 +140,14 @@ Interesse especial em empresas com cultura de engenharia, aprendizado contínuo 
 
 ## ✨ Soft Skills & Cultura
 
-- Comunicação clara e empática
-- Aprendizado contínuo
-- Trabalho em equipe 
-- Organização e foco 
-- Adaptabilidade 
-- Cultura de crescimento 
+- Comunicação clara, empática e assertiva  
+- Mentalidade de aprendizado contínuo e autodesenvolvimento  
+- Colaboração eficaz e espírito de equipe  
+- Organização, disciplina e foco em resultados  
+- Adaptabilidade frente a mudanças e desafios  
+- Compromisso com uma cultura de crescimento e inovação  
+
+---
 
 ## 📫 Contato
 
