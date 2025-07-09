@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil! Sou Kailane, Desenvolvedora Full-Stack Júnior  
 
 Me dedico a criar soluções que realmente **resolvem problemas** e geram impacto.  
-Atualmente estudo **Ciência da Computação no IFCE** e trabalho com **Python (Django)**, **React**, **Next.js** e **Tailwind CSS** para construir aplicações completas.  
+Atualmente estudo **Ciência da Computação no IFCE** e trabalho com **Python (Django)**, **React**, **Next.js**, **Bootstrap** e **Tailwind CSS** para construir aplicações completas.  
 Tenho experiência com **CI/CD**, **Docker** e outras práticas modernas para garantir entregas rápidas e confiáveis.  
 Além disso, aplico conhecimentos em **análise de dados** para apoiar decisões mais assertivas.  
 Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis e eficientes.
@@ -124,10 +124,10 @@ Desde 2023
 > - **Rotas da Ibiapaba** (Projeto de Extensão)  
 > Desenvolvimento de soluções tecnológicas para o turismo local, incluindo API para gestão de produtos turísticos, parceiros e tickets, visando fomentar a economia regional.
 > 
-> - **Desenvolvimento de iite Institucional para APCD** (Projeto de Extensão em parceria com o IFCE)  
+> - **Desenvolvimento de site Institucional para APCD** (Projeto de Extensão em parceria com o IFCE)  
 > Criação de site institucional acessível em WordPress, com foco em estrutura de dados e design inclusivo para pessoas com deficiência, promovendo acessibilidade digital.
 > 
-> - **Desenvolvimento de aplicativo para ensino de estrutura de dados** (Projeto de Extensão)  
+> - **Desenvolvimento de aplicativo para ensino de estrutura de dados** (Projeto de Extensão em parceria com o IFCE)  
 > Desenvolvimento de um app acessível para auxiliar alunos com deficiência visual no aprendizado de estrutura de dados, promovendo inclusão educacional por meio de tecnologias assistivas.
 
 
