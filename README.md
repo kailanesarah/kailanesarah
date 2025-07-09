@@ -13,13 +13,12 @@ Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis
 ### 🗺️ API Rotas da Ibiapaba  
 **Em desenvolvimento**
 **Objetivo:** Facilitar a gestão de produtos turísticos, parceiros e tickets de resgate na região da Ibiapaba  
-**Tecnologias:** Django, Django REST Framework  
+**Tecnologias:** Django, Django REST Framework, Docker, PostgreSQL, JWT
 **Resultado:** API robusta para compra e resgate de tickets, com suporte a múltiplos perfis de usuários  
 
 **Implementações:**  
 - Estrutura modular com apps separados (produtos, tickets, parceiros, compras, etc.)  
 - CRUD completo para estabelecimentos e seus produtos  
-- Rankeamento automático de estabelecimentos com base em avaliações  
 - Gerenciamento de diferentes tipos de usuários (turista, gerente, estabelecimento, admin)  
 - Sistema de compra sem login com envio de comprovante por e-mail e WhatsApp  
 - Controle de status dos tickets (em processo, resgatado, cancelado)  
@@ -29,10 +28,10 @@ Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis
 
 ---
 
-### 📦 Sistema de Gerenciamento de Produtos (Full Stack)  
+### 📦 Sistema de gerenciamento de produtos (Full Stack)  
 **Em desenvolvimento**
 **Objetivo:** Desenvolver uma plataforma completa para cadastro, edição e visualização de produtos  
-**Tecnologias:** Django, Django REST Framework, HTML, CSS, JavaScript  
+**Tecnologias:** Django, Django REST Framework, Bootstrap
 **Resultado:** Aplicação full stack funcional com integração entre front-end e back-end  
 
 **Implementações:**  
@@ -47,7 +46,7 @@ Gosto de unir **tecnologia e estratégia** para desenvolver produtos escaláveis
 
 
 ---
-### 🖼️ API de Extração e Tradução de Texto em Imagens  
+### 🖼️ API de extração e tradução de texto em imagens  
 **Objetivo:** Extrair textos de imagens enviadas e traduzir para outros idiomas conforme solicitação do usuário  
 **Tecnologias:** Django, Django REST Framework, OCR (Tesseract), APIs de tradução  
 **Resultado:** API funcional que recebe imagens, extrai o texto e realiza tradução sob demanda  
